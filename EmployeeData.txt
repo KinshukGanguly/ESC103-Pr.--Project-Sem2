@@ -1,0 +1,6 @@
+EMPLOYEE ID,Name,Job Title,Salary
+EMP001,John Doe,Junior Web Developer,55000
+EMP002,Robert Claydon,Senior Software Developer,60000
+EMP004,Houston Koch,Senior Analyst,5500
+EMP005,Timothy Taylor,Junior Operations Manager,50000
+EMP006,Konnel Grenner,Senior Operations Manager,65000
